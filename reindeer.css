@@ -1,0 +1,16 @@
+* {
+    con
+    width: 960px;
+    font-size: 1.075em;
+    color: #da2525;
+    font-family: 'Arial';
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#coloredReindeer {
+    background-color: #06df0e;
+    text-align: center;
+    width: 960px;
+}
